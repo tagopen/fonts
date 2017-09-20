@@ -14,6 +14,9 @@
 | 800           | **Extra Bold (Ultra Bold)**   |
 | 900           | **Black (Heavy)**             |
 
+## Сайт для конвертирования шрифтов
+[https://transfonter.org/](https://transfonter.org/)
+
 ## Подготовка файлов для font2css
 Шаблон:
 ```<family>[-<weight>][-<style>].<extension>```
