@@ -30,4 +30,4 @@
 > **Плагин игнорирует все шрифты, которые не будут соответствовать правилам.**
 
 ## Полезные ссылки
-Библиотека шрифтов: [https://fontlibrary.org/ru/](https://fontlibrary.org/ru/)
+Библиотека шрифтов: [https://fontlibrary.org/](https://fontlibrary.org/)
